@@ -1,0 +1,12 @@
+The Problem: Language barriers always exist when you travel in a different country.
+
+The Solution (App): An app that will allow users to understand how to use basic language with pronunciation and everything.
+
+App Design:
+-A home screen to start up the app
+-A screen to navigate across various languages (Spanish, French, etc.)
+-Upon choosing the language necessary, provide a screen of a bunch of common phrases in that language (hello, good-bye, thank you, how are you, etc.)
+-Picking a phrase will show how the people would write the phrase in that language, beneath it will show a guide on pronouncing it, with a button that will pronounce the word for you
+
+Resources:
+-Text to Sound Converter: https://snack.expo.dev/@aprnabagchi/text_to_speech_converter
